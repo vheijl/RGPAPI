@@ -3,7 +3,7 @@
 Link to app:  https://generic-rpg-api.herokuapp.com/
 
 ## REST API endpoints
-```:warning: NOTE: User and CharacterClass MUST be added before a Character is added```
+:warning: ```  NOTE: User and CharacterClass MUST be added before a Character is added```
 ### Users
 Method | Endpoint | Description
 ------------ | ------------- | --------------
