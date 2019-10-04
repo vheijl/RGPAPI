@@ -1,6 +1,6 @@
 # RPG API
 
-Link to app: 
+Link to app:  https://generic-rpg-api.herokuapp.com/
 
 ## REST API endpoints
 ```:warning: NOTE: User and CharacterClass MUST be added before a Character is added```
